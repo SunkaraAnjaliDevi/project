@@ -1,0 +1,46 @@
+.now{
+    border-radius: 10px;
+    background-color: black;
+    color:white;
+    outline:0;
+    padding:10px 20px;
+  }
+  
+  .provide{
+    background:url("https://img.freepik.com/free-photo/dark-gray-cement-wall-product-background_53876-128556.jpg" );
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    height:auto;
+    color:white;
+  }
+  .email{
+  
+    width:300px;
+   padding:10px;
+    background-color: transparent;
+    color:white;
+  }
+  .submit{
+   padding:10px;
+    background-color: white;
+    color:black;
+    border:none;
+    outline:0;
+  
+  }
+  .free{
+    float:left;
+    clear:both;
+    margin-right:10px;
+  }
+  *{
+    font-family:"cavinfont" ;
+  }
+    @font-face {
+      font-family:"cavinfont" ;
+      src: url("cavin.ttf");
+    }
+  
+  
